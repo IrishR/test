@@ -1,0 +1,116 @@
+body{
+    margin: 0px;
+    background: whitesmoke;
+    font-family: Arial,sans-serif,"Helvetica Neue",Helvetica;
+}
+.head-style{
+    background-color: #434753;
+    height: 60px;
+}
+
+.body-style{
+    height: 750px;
+}
+.logo{
+    margin-top: 10px;
+    background-image: url("image/logo.png");
+    background-repeat: no-repeat;
+    width: 39px;
+    height: 41px;
+}
+.logo-text{
+    background-image: url("image/logo_text.png");
+    background-repeat: no-repeat;
+    width: 175px;
+    height: 26px;
+    margin: 7px -10px 0px 30px;
+}
+.class-since{
+    margin-top: 3px;
+    font-weight: bold;
+    color: white;
+    margin-left: 95px;
+}
+.class-cust{
+    margin-top: 10px;
+    font-weight: bold;
+    color: white;
+    font-size: 10px;
+}
+.symbol{
+    color: #5bc0de;
+    margin-top: 15px;
+    margin-left: -10px;
+}
+.head-line,
+.menu-line{
+    height: 3px;
+    background-color: black;
+}
+.menu-line{
+    background-color: gray;
+}
+.menu{
+    width: 100%;
+    height: 46px;
+    background-color: #bbbbbb;
+    margin-top: 3px;
+}
+.head-menu{
+    margin-left: 20%;
+
+}
+ul.horiz-menu {
+    display: inline;
+    padding-left: 0;
+    margin-right: 5px;
+    list-style: none;
+}
+ul.horiz-menu li{
+    margin: 10px 20px 0px 5px;
+    padding: 4px;
+    float: left;
+    display: inline-block;
+    color: black;
+    font-weight: bold;
+}
+a{
+    color: #434753 !important;
+}
+
+input{
+    width: 449px;
+    height: 28px;
+    border: 1px #434753 solid;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding-left: 10px;
+}
+.search-input{
+    margin-left: 30%;
+}
+.body-style{
+    background-image: url("image/content.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 541px;
+    background-position: center;
+}
+.but-search{
+    width: 18px;
+    height: 13px;
+    background-image: url("image/search.png");
+    background-repeat: no-repeat;
+    margin-left: -30px;
+
+    border: #f2f2f2 ;
+}
+#player{
+    margin-left: 10%;
+    margin-top: 40px;
+    color: white;
+    font-weight: bold;
+}
+div h2{
+
+}
